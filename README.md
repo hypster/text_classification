@@ -3,7 +3,4 @@
 ## Getting Started
 Code/notebook follows the numeric ordering in the filename.
 
-Output are all shown, but some code snippets require setting the directory path, so running code on own computer needs some self debugging. 
-
-# todo
-add embedding in the feature
+Use the code for viewing output, but running the code can sometimes cause error since the code does not follow the same order as cells.
